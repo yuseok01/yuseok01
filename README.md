@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kim Yu Seok</h1>
-<h3 align="center">I'm a backend developer I am hoping to work on all kinds of automation tasks related to logistics.</h3>
+<h3 align="center">I'm a backend developer </h3>
+<h2  align="center">I am hoping to work on all kinds of automation tasks related to logistics.</h2>
+
+- 📫 How to reach me **itgorae.seok@gmail.com**
+
+- 📄 Know about my experiences [https://www.notion.so/e09fb6834fa44283aa08ac2f55730f96](https://www.notion.so/e09fb6834fa44283aa08ac2f55730f96)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
