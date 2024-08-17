@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kim Yu Seok</h1>
-<h3 align="center">I'm a backend developer </h3>
-<h2  align="center">I am hoping to work on all kinds of automation tasks related to logistics.</h2>
+<h1 align="left">Hi 👋, I'm Kim Yu Seok</h1>
+<h3 align="left">I'm a backend developer </h3>
+<h2  align="left">I am hoping to work on all kinds of automation tasks related to logistics.</h2>
 
 - 📫 How to reach me **itgorae.seok@gmail.com**
 
